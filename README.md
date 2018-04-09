@@ -1,5 +1,11 @@
 # React functional state
 
+### Install
+```
+    npm i --save react-functional-state
+```
+
+### Usage
 ``` jsx
 function StatelessButton({state, setState}) {
   return (
