@@ -7,6 +7,8 @@
 
 ### Usage
 ``` jsx
+import functionalState from 'react-functional-state';
+
 function StatelessButton({state, setState}) {
   return (
     <button onClick={() => setState({value: state.value + 1})}>
