@@ -9,7 +9,7 @@
     "docs": "webpack-dev-server",
     "docs:prod": "webpack -p"
   },
-  "keywords": [],
+  "keywords": ["react", "functional", "function", "state", "stateless"],
   "license": "MIT",
   "peerDependencies": {
     "react": "^15.3.0 || ^16.2.0"
