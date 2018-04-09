@@ -11,4 +11,4 @@ function StatelessButton({state, setState}) {
 
 const StatefulButton = functionalState({value: 1})(StatelessButton);
 ```
-
+As simple as that
